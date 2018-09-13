@@ -1,0 +1,33 @@
+﻿# Tiled2Unity generated file. Do not modify by hand.
+# Wavefront file for 'responbility_mesh_0023.obj'
+
+# Vertices (Count = 8)
+v -8.216216 -4.324325 0
+v -8.648649 -4.324325 0
+v -8.648649 -3.891892 0
+v -8.216216 -3.891892 0
+v -8.648649 -4.324325 0
+v -9.081081 -4.324325 0
+v -9.081081 -3.891892 0
+v -8.648649 -3.891892 0
+
+# Texture cooridinates (Count = 8)
+vt 0.909213 0.1667888
+vt 0.9544234 0.1667888
+vt 0.9544234 0.3332112
+vt 0.909213 0.3332112
+vt 0.9546675 0.1667888
+vt 0.9998779 0.1667888
+vt 0.9998779 0.3332112
+vt 0.9546675 0.3332112
+
+# Normal
+vn 0 0 -1
+
+# Mesh description
+g responbility_mesh_0023
+
+# Faces
+f 1/1/1 2/2/1 3/3/1 4/4/1
+f 5/5/1 6/6/1 7/7/1 8/8/1
+

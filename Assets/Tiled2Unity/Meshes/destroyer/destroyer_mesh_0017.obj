@@ -1,0 +1,24 @@
+﻿# Tiled2Unity generated file. Do not modify by hand.
+# Wavefront file for 'destroyer_mesh_0017.obj'
+
+# Vertices (Count = 4)
+v -15.56757 -7.351352 0
+v -16 -7.351352 0
+v -16 -6.918919 0
+v -15.56757 -6.918919 0
+
+# Texture cooridinates (Count = 4)
+vt 0.0001220703 0.6667887
+vt 0.08321127 0.6667887
+vt 0.08321127 0.7498779
+vt 0.0001220703 0.7498779
+
+# Normal
+vn 0 0 -1
+
+# Mesh description
+g destroyer_mesh_0017
+
+# Faces
+f 1/1/1 2/2/1 3/3/1 4/4/1
+
