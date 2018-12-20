@@ -11,3 +11,4 @@ A side-scrolling game with parallax.
 4. Press **Play**
 
 ## Screenshot
+![Dwipantra](Screenshot/IMG_2285.jpg "Dwipantara")
