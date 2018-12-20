@@ -12,3 +12,4 @@ A side-scrolling game with parallax.
 
 ## Screenshot
 ![dwipantara-unity](/Screenshot/IMG_2285.JPG)
+![dwipantara-unity](/Screenshot/IMG_2286.JPG)
